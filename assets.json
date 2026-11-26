@@ -1,0 +1,23 @@
+{
+  "schema": "ncl.public-art-assets/v1",
+  "assets": [
+    {
+      "business": "Apple Auto",
+      "path": "thanksgiving/2026/f39266f049407423558ea4ebf8a83b18bf93526a9c88f0360d7c8ad7cb4fd0f9.png",
+      "sha256": "f39266f049407423558ea4ebf8a83b18bf93526a9c88f0360d7c8ad7cb4fd0f9",
+      "kind": "AI-generated Thanksgiving illustration"
+    },
+    {
+      "business": "Auto Correct Glendale",
+      "path": "thanksgiving/2026/c50b97c3ae063913f70f24e68f3ab5726a5a987927eaf502ff6b09e816838310.png",
+      "sha256": "c50b97c3ae063913f70f24e68f3ab5726a5a987927eaf502ff6b09e816838310",
+      "kind": "AI-generated Thanksgiving illustration"
+    },
+    {
+      "business": "Auto Correct Surprise",
+      "path": "thanksgiving/2026/839bbf0f29c2b5539f3d57b3259547a175cb93878e47084cfab128765d840622.png",
+      "sha256": "839bbf0f29c2b5539f3d57b3259547a175cb93878e47084cfab128765d840622",
+      "kind": "AI-generated Thanksgiving illustration"
+    }
+  ]
+}
