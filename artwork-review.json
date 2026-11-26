@@ -1,0 +1,28 @@
+{
+  "reviewer": "Independent Codex reviewer session",
+  "verdict": "PASS",
+  "scope": "Visual branding, local city, Thanksgiving relevance and readability of these exact artwork files; not provider publication or a claim of pixel-identical logos.",
+  "assets": [
+    {
+      "sha256": "f39266f049407423558ea4ebf8a83b18bf93526a9c88f0360d7c8ad7cb4fd0f9",
+      "city": "Baltimore",
+      "verdict": "PASS",
+      "official_logo_reference_sha256": "33b521b8fea1e06f721cc79af6dee436d4e9d229a1ade9a5b3aa73c9311d3f36",
+      "rationale": "Correct recognizable business branding and canonical city; Happy Thanksgiving and local thanks are legible; turkey/autumn imagery fits the greeting; no offers, hours, service guarantees or unsupported factual claims. Stylized rendering is not asserted pixel-identical to the official logo."
+    },
+    {
+      "sha256": "c50b97c3ae063913f70f24e68f3ab5726a5a987927eaf502ff6b09e816838310",
+      "city": "Glendale",
+      "verdict": "PASS",
+      "official_logo_reference_sha256": "af5be52f43c6d3a663011773d38eb8d848e4922d9c499bbce6dc3c0123e927e4",
+      "rationale": "Correct recognizable business branding and canonical city; Happy Thanksgiving and local thanks are legible; turkey/autumn imagery fits the greeting; no offers, hours, service guarantees or unsupported factual claims. Stylized rendering is not asserted pixel-identical to the official logo."
+    },
+    {
+      "sha256": "839bbf0f29c2b5539f3d57b3259547a175cb93878e47084cfab128765d840622",
+      "city": "Surprise",
+      "verdict": "PASS",
+      "official_logo_reference_sha256": "af5be52f43c6d3a663011773d38eb8d848e4922d9c499bbce6dc3c0123e927e4",
+      "rationale": "Correct recognizable business branding and canonical city; Happy Thanksgiving and local thanks are legible; turkey/autumn imagery fits the greeting; no offers, hours, service guarantees or unsupported factual claims. Stylized rendering is not asserted pixel-identical to the official logo."
+    }
+  ]
+}
